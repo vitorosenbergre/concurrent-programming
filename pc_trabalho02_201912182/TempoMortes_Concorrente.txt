@@ -1,0 +1,14 @@
+0 - nasce o pai
+22 - nasce filho 1
+25 - nasce o filho 2
+32 - nasce o filho 3
+38 - nasce o neto 1
+45 - nasce o neto 2
+68 - nasce o bisneto 1
+73 - neto 1 morre
+78 - neto 2 morre
+80 - filho 2 morre
+80 - bisneto 1 morre
+83 - filho 1 morre
+87 - filho 3 morre
+90 - pai morre
